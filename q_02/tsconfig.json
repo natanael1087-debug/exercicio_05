@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "dist"
+  },
+  "include": ["*.ts", "q_02/app.ts", "q_02/banco.ts", "q_02/cliente.ts"]
+}

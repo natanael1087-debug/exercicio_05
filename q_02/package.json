@@ -1,0 +1,17 @@
+{
+  "name": "exercicio05-poo",
+  "version": "1.0.0",
+  "description": "Exercicio 05 de Programacao Orientada a Objetos",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/app.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.7.0"
+  }
+}
